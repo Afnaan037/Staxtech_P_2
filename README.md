@@ -16,16 +16,6 @@ This is a simple personal portfolio website built using **Python Flask**. It sho
 
 ---
 
-## 🚀 Live Preview (Optional)
-
-You can deploy this project on:
-- [Render](https://render.com/)
-- [PythonAnywhere](https://www.pythonanywhere.com/)
-- [Replit](https://replit.com/)
-- [Heroku](https://heroku.com/) *(if available)*
-
----
-
 ## 🛠️ Technologies Used
 
 - 🐍 Python 3
