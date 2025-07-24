@@ -48,8 +48,23 @@ portfolio/
 
 ## 💻 Getting Started
 
-### 1. Clone the Repository
-
 ```bash
+
+1. Clone the Repository
+
 git clone https://github.com/Afnaan037/portfolio-flask.git
 cd portfolio-flask
+
+2. Create a Virtual Environment (Optional but Recommended)
+
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+3. Install Dependencies
+
+pip install flask
+
+4. Run the App
+
+python app.py
+Visit http://127.0.0.1:5000 in your browser.
