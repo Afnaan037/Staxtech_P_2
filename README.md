@@ -51,5 +51,5 @@ portfolio/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/portfolio-flask.git
+git clone https://github.com/Afnaan037/portfolio-flask.git
 cd portfolio-flask
